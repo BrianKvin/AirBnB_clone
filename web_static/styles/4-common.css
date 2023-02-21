@@ -7,5 +7,6 @@ body {
 }
 div.container {
   max-width: 1000px;
-  margin-top: 30px auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
