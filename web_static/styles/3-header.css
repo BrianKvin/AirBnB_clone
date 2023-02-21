@@ -7,3 +7,7 @@ header {
     background-repeat: no-repeat;
     background-position: 20px 50%;
 }
+header.logo {
+    margin-left: 20px;
+    align: center;
+}
