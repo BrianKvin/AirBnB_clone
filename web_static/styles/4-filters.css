@@ -1,16 +1,19 @@
+/* search bar */
 div.container {
   max-width: 1000px;
   margin: 30px auto;
-  text-align: center;
 }
+/* filter section */
 section.filters {
   background-color: white;
   height: 70px;
   width: 100%;
   border: 1px solid #DDDDDD;
   border-radius: 4px;
+  display: flex;
   position: relative;
 }
+/* button */
 section.filters button {
   font-size: 18px;
   background-color: #FF5A5F;
