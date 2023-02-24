@@ -61,17 +61,15 @@ div.container {
     border: 1px solid #DDDDDD;
     border-radius: 4px;
     list-style-type: none;
-    margin: 0;
+    padding: 20px;
   }
   .popover h2 {
     font-size: 16px;
+    margin: 0;
+    padding-top: 10px;
   }
   .popover li {
-    margin: 10px 0px 10px 0px; 
-    list-style: none;
-    padding-left: 20px;
-    display: inline-block;
-    grid-row-gap: 4px;
+    display: block;
   }
 .locations:hover .popover,
 .amenities:hover .popover {
