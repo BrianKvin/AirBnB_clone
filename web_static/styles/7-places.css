@@ -1,5 +1,7 @@
 .places {
-    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 .places h1 {
     text-align: left;
